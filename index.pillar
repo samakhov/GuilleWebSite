@@ -38,3 +38,13 @@ I spend a lot of my free time helping the amazing community of *Pharo>http://www
 ''22-05-2015'' I got two papers accepted in *Onward!'15>http://2015.splashcon.org/track/onward2015-papers*. Thanks to everybody that collaborated, and see you @Pittsburg!
 
 ''13-04-2015'' I defended my thesis in the Ircica building @Lille today! Nice presentation, environment, Phd in hand and mention très honorable. Thanks for the support of everybody!
+
+
+${inputFile:projects.pillar}$
+
+${inputFile:research.pillar}$
+
+${inputFile:publications.pillar}$
+
+
+${inputFile:contact.pillar}$
