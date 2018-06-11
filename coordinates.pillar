@@ -1,26 +1,31 @@
 {
 	"profile" : [
 		{
-			"name": "John Doe",
-	 		"avatar": "avatar.png",
-     			"post": "Research Engineer",
-     			"firm": "Space Laboratory"
+			"name": "Guillermo Polito",
+	 		"avatar": "http://www.gravatar.com/avatar/e50b0970fbf94e7086ad065995e55b59.png",
+     			"post": "Mastering objects"
 		}
 	]
 
 }
 
-!! How to contact me
-
-I am a computer science student 3rd year at Université de Lille 1 - Sciences et Technologies. I am a coding enthusiast. I'am always trying to improve my
-skills in object-oriented languages. Then, actually I'am doing an internship with the *RMOD>https://rmod.inria.fr/* team at *INRIA>https://www.inria.fr/*, a team working on evolution object-oriented applications. Here are *projects>projects.html* on which I'am working during my Internship.
-
-For weekly news on evolution of my tasks, internship. 
-
-You can find me on twitter,
-
-Discord, Github.
 
 
-I am a computer science student 3rd year at Université de Lille 1 - Sciences et Technologies. I am a coding enthusiast. I'am always trying to improve my
-skills in object-oriented languages. Then, actually I'am doing an internship with the *RMOD>https://rmod.inria.fr/* team at *INRIA>https://www.inria.fr/*, a team working on evolution object-oriented applications. Here are *projects>projects.html* on which I'am working during my Internship.
+!Coordinates
+
+Contact me. I'm open for collaborations.
+
+!!Email
+
+guillermopolito@gmail.com
+
+!!Snail mail / Visits
+
+{{{html:
+INRIA - G. Polito, 40, avenue Halley,<br/>
+Parc Scientifique de la Haute Borne,<br/>
+Bat.A, Park Plaza<br/>
+France<br/>
+Tel:33 (0)3 20 43 42 56<br/>
+Fax:33 (0)3 59 57 78 50<br/>
+}}}

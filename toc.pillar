@@ -3,4 +3,4 @@ ${inputFile:index.pillar}$
 ${inputFile:projects.pillar}$
 ${inputFile:research.pillar}$
 ${inputFile:publications.pillar}$
-${inputFile:contact.pillar}$
+${inputFile:coordinates.pillar}$
