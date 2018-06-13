@@ -29,6 +29,8 @@ html {
   font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
+  position: relative;
+  min-height: 100%;
 }
 @media screen and (min-width: 58em) {
   html {
@@ -45,6 +47,7 @@ body {
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
+  margin-bottom: 30px;
 }
 
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
@@ -965,6 +968,8 @@ article .article-metadata {
  **************************************************/
 
 footer {
+  position: absolute;
+  height: 30px;
   margin: 4rem 0 0;
   right: 0;
   bottom: 0;
